@@ -17,7 +17,7 @@ const RESOURCES = {
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "index.html": "04f396d10f7e76b6567657589424df36",
 "/": "04f396d10f7e76b6567657589424df36",
-"main.dart.js": "081aac4813263126c1094e67b1bb0a37",
+"main.dart.js": "7c755bf2a63fdd8e973c46cdfd50e68a",
 "version.json": "2c4af74e65e6a5eb6ac9c80a07890e3e"
 };
 
