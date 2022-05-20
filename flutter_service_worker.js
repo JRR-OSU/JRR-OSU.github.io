@@ -3,11 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "c21b6fd80bbcbde0251463188dfdf950",
-"assets/assets/fonts/Montserrat-Bold.ttf": "d3085f686df272f9e1a267cc69b2d24f",
-"assets/assets/fonts/Montserrat-Regular.ttf": "07689d4eaaa3d530d58826b5d7f84735",
+  "assets/AssetManifest.json": "c0d91bf6487f8df4fff8c08b6b312644",
+"assets/assets/fonts/SF-Pro.ttf": "2ea2d54d2054b3f78a9c00261ea47f6a",
 "assets/assets/images/lp_image.png": "5aad4d4216174954f5228d7d268546e8",
-"assets/FontManifest.json": "1a726564c73eb44d252c69c6eb91fd93",
+"assets/FontManifest.json": "c2a05e02fe4b179c51cdade9d95e6544",
 "assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
 "assets/NOTICES": "dc35ee2fc2946f030f5d6574691980d5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "9a62a954b81a1ad45a58b9bcea89b50b",
@@ -18,7 +17,7 @@ const RESOURCES = {
 "flutter.js": "0816e65a103ba8ba51b174eeeeb2cb67",
 "index.html": "04f396d10f7e76b6567657589424df36",
 "/": "04f396d10f7e76b6567657589424df36",
-"main.dart.js": "c296d8c92f293d0d825d3ecc5031fb87",
+"main.dart.js": "081aac4813263126c1094e67b1bb0a37",
 "version.json": "2c4af74e65e6a5eb6ac9c80a07890e3e"
 };
 
